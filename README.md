@@ -2,7 +2,7 @@
 ## Beta Multi Device 
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmwf7fG_ukDf67VmP03t_8LmEzWuhDglM0Yi2xQfCW9t6Ru-v-7kdFJk&s=10" alt="NeoBot-MD" width="200"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgessaWR5G_adgtRxHdR4LN0ekySDXegXIXw&usqp=CAU" alt="NeoBot-MD" width="200"/>
 
 <p align="center">
     <a href="https://Lexxy24.github.io">
