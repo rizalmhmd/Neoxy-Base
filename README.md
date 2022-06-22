@@ -48,12 +48,13 @@ Click the deploy icon below !
 > npm start
 ```
 
-# My Sosial
+## My Sosial
 - [ Group ](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG) 
 - [ YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
 - [ Whatsapp ](https://wa.me/6283834558105)
 
-# List Menu
+## List Menu
+```bash
 > OTHERS MENU
 > GROUP MENU
 > OWNER MENU
@@ -62,3 +63,4 @@ Click the deploy icon below !
 > NULIS MENU
 > ANIME MENU
 > DOWNLOAD MENU
+```
