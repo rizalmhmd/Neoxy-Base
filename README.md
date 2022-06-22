@@ -1,4 +1,4 @@
-# Bot Whatsapp
+# Base Neoxy-Bot
 ## Beta Multi Device 
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/neo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/Neoxy-Base)
 
 ```bash
  > heroku/nodejs
@@ -34,23 +34,21 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Lexxy24/neo.git
-> cd neo
+> git clone https://github.com/Lexxy24/Neoxy-Base.git
+> cd Neoxy-Base
 > yarn
 > npm start
 ```
 
 ## RDP/VPS USER
 ```bash 
-> git clone https://github.com/Lexxy24/neo.git
-> cd neo
+> git clone https://github.com/Lexxy24/Neoxy-Base.git
+> cd Neoxy-Base
 > npm install
 > npm start
 ```
 
 # My Sosial
-- [Group Bot Wa 1](https://chat.whatsapp.com/GGtmie0M39u1rE8ViOcBNw)
-- [Group Bot Wa 2](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
-- [Group Bot Wa 3](https://chat.whatsapp.com/EDYV3OK6wHaDAb6J1iMnUa)
-- [YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
-- [Whatsapp ](https://wa.me/6283834558105)
+- [ Group ](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG) 
+- [ YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
+- [ Whatsapp ](https://wa.me/6283834558105)
