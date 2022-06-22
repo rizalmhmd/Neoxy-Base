@@ -52,3 +52,87 @@ Click the deploy icon below !
 - [ Group ](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG) 
 - [ YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
 - [ Whatsapp ](https://wa.me/6283834558105)
+
+# Fitur
+❑ OTHERS MENU
+• script
+• ping
+• limit
+• ceklimit
+• speed
+• status
+• botstatus
+• runtime
+
+❑ GROUP MENU
+• kick
+• add
+• promote
+• demote
+• setname
+• setdesc
+• setppgrup
+• tagall
+• hidetag
+• vote
+• upvote
+• devote
+• cekvote
+• delvote
+• group
+• editinfo
+• antilink
+
+❑ OWNER MENU
+• join
+• leave
+• getcase
+• creategc
+• block
+• unblock
+• bcall
+• bcgc
+• broadcast
+• prem del 628xxxx
+• prem add 628xxxx
+
+❑ FUN MENU
+• jadian
+• jodohku
+• tictactoe
+• delttt
+• family100
+• tebak
+• math
+• suitpvp
+
+❑ CONVERT MENU
+• tahta
+• teksto
+• sticker
+• toimage
+• tovideo
+• tomp3
+
+❑ NULIS MENU
+• nulis
+• nuliskiri
+• nuliskanan
+• foliokiri
+• foliokanan
+
+❑ ANIME MENU
+• nekonime
+• randomloli
+• randomwaifu
+• randomneko
+• randomanime
+
+❑ DOWNLOAD MENU
+• play
+• ytplay
+• ytmp3
+• ytmp4
+• tiktok
+• tiktokmp4
+• tiktokmp3
