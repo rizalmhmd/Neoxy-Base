@@ -53,12 +53,12 @@ Click the deploy icon below !
 - [ YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
 - [ Whatsapp ](https://wa.me/6283834558105)
 
-# Fitur
-❑ OTHERS MENU
-❑ GROUP MENU
-❑ OWNER MENU
-❑ FUN MENU
-❑ CONVERT MENU
-❑ NULIS MENU
-❑ ANIME MENU
-❑ DOWNLOAD MENU
+# List Menu
+> OTHERS MENU
+> GROUP MENU
+> OWNER MENU
+> FUN MENU
+> CONVERT MENU
+> NULIS MENU
+> ANIME MENU
+> DOWNLOAD MENU
