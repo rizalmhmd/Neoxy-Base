@@ -477,6 +477,7 @@ neoxy.send5ButImg(m.chat, menu, creator, thumbnail, btn)
 break
 case 'tiktok':{
 if (args.length < 1) return m.reply(`*Contoh* :\n#tiktok https://vt.tiktok.com/ZSdGcA6MK/?k=1`)
+if (!args[0].includes('tiktok')) return m.reply(`Link is not valid`)
 tttt =`# *TIKTOK DOWNLOAD*
 _Silahkan Pilih Media_\n_Yang Akan Di Unduh_`
 let btnnn = [{
@@ -1478,6 +1479,7 @@ if (!isPremium && global.db.data.users[m.sender].limit < 1) return m.reply(mess.
 db.data.users[m.sender].limit -= 1 // -1 limit
 let { TiktokDownloader } = require('./scrape/tiktokdl')
 if (args.length < 1) return m.reply(`*Contoh* :\n#tiktok https://vt.tiktok.com/ZSdGcA6MK/?k=1`)
+if (!args[0].includes('tiktok')) return m.reply(`Link is not valid`)
   m.reply(mess.wait)
    const musim_rambutan = await TiktokDownloader(`${q}`).catch(e => {
  m.reply('err') 
@@ -1493,6 +1495,7 @@ if (!isPremium && global.db.data.users[m.sender].limit < 1) return m.reply(mess.
 db.data.users[m.sender].limit -= 1 // -1 limit
 let { TiktokDownloader } = require('./scrape/tiktokdl')
 if (args.length < 1) return m.reply(`*Contoh* :\n#tiktok https://vt.tiktok.com/ZSdGcA6MK/?k=1`)
+if (!args[0].includes('tiktok')) return m.reply(`Link is not valid`)
   m.reply(mess.wait)
    const musim_rambutan = await TiktokDownloader(`${q}`).catch(e => {
  m.reply('err') 
